@@ -1,0 +1,5 @@
+{
+  "name": "SyncWave",
+  "description": "Real-time synchronized music broadcasting with high-precision clock sync.",
+  "requestFramePermissions": []
+}
